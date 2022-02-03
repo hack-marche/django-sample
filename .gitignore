@@ -1,0 +1,7 @@
+__pycache__/
+
+# Scrapy stuff:
+.scrapy
+serviceAccountKey.json
+
+db.sqlite3
